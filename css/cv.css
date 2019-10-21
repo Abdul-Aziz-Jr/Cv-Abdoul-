@@ -1,0 +1,81 @@
+                body
+                {
+                    background: #77A1D3;  /* fallback for old browsers */
+                    background: -webkit-linear-gradient(to right, #E684AE, #79CBCA, #77A1D3);  /* Chrome 10-25, Safari 5.1-6 */
+                    background: linear-gradient(to right, #E684AE, #79CBCA, #77A1D3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+                    
+                         font-family: 'Source Serif Pro', serif;
+                font-family: 'Ubuntu', sans-serif;
+                font-size: 25px;
+                }
+                    h1 {
+                    color:#f9f7e8;
+                    line-height: normal;
+                    text-align: center;
+                }
+                    h2 {
+                    color:#226b80;
+                    text-align: center;
+                }
+                    h3 {
+                    color:#f9f7e8;
+                    text-align: center;
+                }
+                    h4 {
+                       color:#f9f7e8;
+                       text-align: center;
+                    }
+                     .horizontal li {
+                            display:block;
+                            float:left;
+                            padding:0 10px;
+                }
+                    .abdou {
+                        margin:10px 50px;
+                        padding:20px;
+                    }
+                    .adress {
+                        margin:10px 50px;
+                        padding:20px;
+                    }
+                    .persona {
+                        margin: 4em 4em;
+                        padding:20px;
+                        font-size:auto;
+                        border-style: dotted;
+                        border-color: #f9f7e8;
+                        display: block;
+                    }
+                    .formacion {
+                        margin:10px 50px;
+                        padding:20px;
+                        font-size:auto;
+                    }
+                    .experiencia {
+                        margin:10px 50px;
+                        padding:20px;
+                    }
+                .box {
+                    display: inline-block;
+                  margin: 5px;
+                  
+                   }
+                  .box img {
+                     height: 150px;
+                  width: 150px;
+                }
+              
+                main {
+                    display: flex;
+                }
+                main .parteA{
+                    width: 20%;
+                    background-color:#f9f7e8 ;
+                    
+                    
+                    
+                }
+                main .parteB {
+                    width: 80%;
+                    background-color: #61bfad;
+                }
